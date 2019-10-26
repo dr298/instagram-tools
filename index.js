@@ -31,12 +31,12 @@ const questionTools = [
     choices:
       [
         "[1]  Bot Like Timeline",
-        "[2]  Follow Followers Target by People",
-        "[3]  Follow Followers Target by Media",
-        "[4]  Follow Followers Target by Hastag",
-        "[5]  Follow Followers Target by Location",
-        "[6]  Follow Followers Target by People - with DM",
-        "[7]  Follow Followers Target by People - No Like",
+        "[2]  FFT by People",
+        "[3]  FFT by Media",
+        "[4]  FFT by Hastag",
+        "[5]  FFT by Location",
+        "[6]  FFT by People - with DM",
+        "[7]  FFT by People - No Like",
 	      "[8]  Follow Followers Target by People - No Comment & Like",
         "[9]  Repost Media Target by People",
         "[10] Repost Media Target by Hashtag",
