@@ -13,6 +13,7 @@
  * Thank to all of contributors for developing this project
  * Especially you :)
  *
+ * Recode by me :)
  */
 
 'use strict'
