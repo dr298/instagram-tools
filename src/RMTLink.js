@@ -26,7 +26,7 @@ const User = [
   message:'[>] Insert Password:',
   mask:'*',
   validate: function(value){
-    if(!value) return 'Can\'t Empty';
+    if(!value) return 'gaboleh kosong';
     return true;
   }
 },
