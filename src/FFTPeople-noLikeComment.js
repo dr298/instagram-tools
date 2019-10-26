@@ -12,7 +12,7 @@ const User = [
   name:'username',
   message:'[>] Insert Username:',
   validate: function(value){
-    if(!value) return 'Can\'t Empty';
+    if(!value) return 'gaboleh kosong';
     return true;
   }
 },
@@ -22,7 +22,7 @@ const User = [
   message:'[>] Insert Password:',
   mask:'*',
   validate: function(value){
-    if(!value) return 'Can\'t Empty';
+    if(!value) return 'gaboleh kosong';
     return true;
   }
 },
@@ -31,7 +31,7 @@ const User = [
   name:'target',
   message:'[>] Insert Username Target (Without @[at]):',
   validate: function(value){
-    if(!value) return 'Can\'t Empty';
+    if(!value) return 'gaboleh kosong';
     return true;
   }
 },
