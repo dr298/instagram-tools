@@ -13,7 +13,7 @@ const User = [
 	name:'username',
 	message:'[>] Insert Username:',
 	validate: function(value){
-		if(!value) return 'Can\'t Empty';
+		if(!value) return 'Jangan kosong';
 		return true;
 	}
 },
